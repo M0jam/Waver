@@ -6,13 +6,13 @@
 
 <div align="center">
 
-  🌊 <a href="http://www.waver.video/"><u>Project Page</u></a>  &nbsp;  | &nbsp; 📖 <a href=""><u>Technical Report (Coming Soon)</u></a> &nbsp; | &nbsp; 🔥 <a href="https://opensource.bytedance.com/gmpt/t2i/invite"><u>Discord</u></a> &nbsp;
+  🌊 <a href="http://www.waver.video/"><u>Project Page</u></a>  &nbsp;  | &nbsp; 📖 <a href="https://arxiv.org/pdf/2508.15761"><u>Technical Report</u></a> &nbsp; | &nbsp; 🔥 <a href="https://opensource.bytedance.com/gmpt/t2i/invite"><u>Discord</u></a> &nbsp;
   
 </div>
 
 
 ---
-### 🚀 Overview
+## 🚀 Overview
 **Waver 1.0** is a next-generation, universal foundation model family for unified image and video generation, built on rectified flow Transformers and engineered for industry-grade performance.
 - 🌟 **All-in-One Model:** Simultaneously supports text-to-video (T2V), image-to-video (I2V), and text-to-image (T2I) generation within a single, integrated framework.
 - 🌟 **1080p Resolution and Flexible Length:** Supports up to 1080p high-resolution image and video generation, with flexible resolution, aspect ratio, and video length (2–10 seconds).
@@ -23,6 +23,12 @@
 <div align="left">
     <img src="assets/arena0805.png" alt="" style="width: 100%;" />
 </div>
+
+> [**Waver: Wave Your Way to Lifelike Video Generation**](https://arxiv.org/pdf/2508.15761)
+> 
+> Yifu Zhang, Hao Yang, Yuqi Zhang, Yifei Hu, Fengda Zhu, Chuang Lin, Xiaofeng Mei, Yi Jiang, Zehuan Yuan, Bingyue Peng
+> 
+> *[arXiv 2508.15761](https://arxiv.org/pdf/2508.15761)*
 
 ---
 
@@ -102,4 +108,14 @@ We extend [APG](https://arxiv.org/abs/2410.02416) to video generation to enhance
 <video src="https://github.com/user-attachments/assets/56fcd9b0-e128-4a10-99cb-57c96d1f15fe" width="100%" controls autoplay loop></video>
 </div>
 
+## Citation
+
+```bibtex
+@article{zhang2025Waver,
+  title={Waver: Wave Your Way to Lifelike Video Generation},
+  author={Zhang, Yifu and Yang, Hao and Zhang, Yuqi and Hu, Yifei and Zhu, Fengda and Lin, Chuang and Mei, Xiaofeng and Jiang, Yi and Yuan, Zehuan and Peng, Bingyue},
+  journal={arXiv preprint arXiv:2508.15761},
+  year={2025}
+}
+```
 
