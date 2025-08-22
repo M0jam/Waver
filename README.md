@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  🌊 <a href="http://www.waver.video/"><u>Project Page</u></a>  &nbsp;  | &nbsp; 📖 <a href="https://arxiv.org/pdf/2508.15761"><u>Technical Report</u></a> &nbsp; | &nbsp; 🔥 <a href="https://opensource.bytedance.com/gmpt/t2i/invite"><u>Discord</u></a> &nbsp;
+  🌊 <a href="http://www.waver.video/"><u>Project Page</u></a>  &nbsp;  | &nbsp; 📖 <a href="https://arxiv.org/pdf/2508.15761"><u>Technical Report</u></a> &nbsp; | &nbsp; 🔥 <a href="https://opensource.bytedance.com/gmpt/t2i/invite"><u>Try generating videos with Waver on Discord</u></a> &nbsp;
   
 </div>
 
